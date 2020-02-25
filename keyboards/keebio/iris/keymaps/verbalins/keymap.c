@@ -36,7 +36,7 @@ LT(_LOWER, KC_TAB),KC_Q,  KC_W, 	KC_E, 	 KC_R, 	  KC_T,                				  KC_
 	//├────────┼────────┼────────┼────────┼────────┼────────┤                          ├────────┼────────┼────────┼────────┼────────┼────────┤
 	 	KC_LCTL,  KC_A, 	KC_S, 	 KC_D, 	 KC_F, 	  KC_G,         					  KC_H,    KC_J,    KC_K,    KC_L,   KC_OE,   KC_AE,
 	//├────────┼────────┼────────┼────────┼────────┼────────┼────────┐        ┌────────┼────────┼────────┼────────┼────────┼────────┼────────┤
-	 	KC_LSFT,   KC_Z,   KC_X,    KC_C,    KC_V,    KC_B,   KC_LALT,          KC_BSPC,  KC_N,    KC_M,   KC_COMM, KC_DOT,  KC_SLSH, KC_MINS,
+	 	KC_LSFT,   KC_Z,   KC_X,    KC_C,    KC_V,    KC_B,   KC_LALT,          KC_BSPC,  KC_N,    KC_M,   KC_COMM, KC_DOT,  KC_SLSH, SE_APOS,
 	//└────────┴────────┴────────┴───┬────┴───┬────┴───┬────┴───┬────┘        └───┬────┴───┬────┴───┬────┴───┬────┴────────┴────────┴────────┘
 	                   	               KC_LGUI, KC_SPC,   RAISE,         			KC_ENT,  LOWER,  ADJUST
 								  // └────────┴────────┴────────┘                 └────────┴────────┴────────┘
@@ -64,7 +64,7 @@ LT(_LOWER, KC_TAB),KC_Q,  KC_W, 	KC_E, 	 KC_R, 	  KC_T,                				  KC_
 	//├────────┼────────┼────────┼────────┼────────┼────────┤                          ├────────┼────────┼────────┼────────┼────────┼────────┤
 	 	KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,                     		KC_TRNS,  KC_4,    KC_5,    KC_6,  SE_PLUS, SE_SLSH,
 	//├────────┼────────┼────────┼────────┼────────┼────────┼────────┐        ┌────────┼────────┼────────┼────────┼────────┼────────┼────────┤
-	 	KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,          KC_TRNS, KC_TRNS,  KC_1,   KC_2,     KC_3,   KC_0,   KC_TRNS,
+	 	KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,          KC_TRNS, KC_TRNS,  KC_1,   KC_2,     KC_3,   KC_0,   SE_BSLS,
 	//└────────┴────────┴────────┴───┬────┴───┬────┴───┬────┴───┬────┘        └───┬────┴───┬────┴───┬────┴───┬────┴────────┴────────┴────────┘
 	                               	   KC_TRNS, KC_TRNS, KC_TRNS,         			KC_TRNS, KC_TRNS, KC_TRNS
 								  // └────────┴────────┴────────┘                 └────────┴────────┴────────┘
